@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SSEConfigurationTool (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SSEConfigurationTool (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
